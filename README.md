@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning aws cloud services
 - 💞️ I’m looking to collaborate on projects related to AI and ML
-- 📫 How to reach me - intsagram and linkedin
+- 📫 How to reach me - linkedin
 - ⚡ Fun fact: quick learner and good researcher 
 
 <!---
